@@ -1,5 +1,13 @@
 # Rsbuild project
 
+## TODO
+
+Create a React component that displays a hierarchical tree structure. The tree should allow users to expand and collapse nodes to view more or less detail.
+
+* [Expectation](example/example.png)
+* [Example Data](example/example.json)
+
+
 ## Setup
 
 Install the dependencies:
