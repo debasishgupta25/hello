@@ -8,7 +8,10 @@ Create a React component that displays a hierarchical tree structure. The tree s
 * [Example Data](example/example.json)
 
 
-## Setup
+## Open in StackBlitz
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/efriandika/hello)
+
+## Open in in Local
 
 Install the dependencies:
 
