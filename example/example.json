@@ -1,0 +1,83 @@
+[
+  {
+    "name": "World",
+    "children": [
+      {
+        "name": "North America",
+        "children": [
+          {
+            "name": "USA",
+            "children": [
+              {
+                "name": "California",
+                "children": [
+                  { "name": "Los Angeles" },
+                  { "name": "San Francisco" },
+                  { "name": "San Diego" }
+                ]
+              },
+              {
+                "name": "Texas",
+                "children": [
+                  { "name": "Houston" },
+                  { "name": "Austin" },
+                  { "name": "Dallas" }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Canada",
+            "children": [
+              {
+                "name": "Ontario",
+                "children": [
+                  { "name": "Toronto" },
+                  { "name": "Ottawa" },
+                  { "name": "Hamilton" }
+                ]
+              },
+              {
+                "name": "Quebec",
+                "children": [
+                  { "name": "Montreal" },
+                  { "name": "Quebec City" },
+                  { "name": "Laval" }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Europe",
+        "children": [
+          {
+            "name": "United Kingdom",
+            "children": [
+              { "name": "London" },
+              { "name": "Glasgow" },
+              { "name": "Edinburgh" }
+            ]
+          },
+          {
+            "name": "Germany",
+            "children": [
+              { "name": "Berlin" },
+              { "name": "Munich" },
+              { "name": "Frankfurt" }
+            ]
+          },
+          {
+            "name": "France",
+            "children": [
+              { "name": "Paris" },
+              { "name": "Lyon" },
+              { "name": "Marseille" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
