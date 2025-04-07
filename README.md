@@ -7,7 +7,7 @@ Create a React component that displays a hierarchical tree structure. The tree s
 * [Expectation](example/example.png)
 * [Example Data](example/example.json)
 
-You can use this [Stackblitz](https://stackblitz.com/edit/vitejs-vite-qcrea7s8?file=index.html&secureweb=Teams&terminal=dev) as s starter. or setup locally by following below instructions
+You can use this [Stackblitz](https://stackblitz.com/edit/vitejs-vite-qcrea7s8?file=index.html&secureweb=Teams&terminal=dev) as a starter. or setup locally by following below instructions
 
 ## Setup
 
