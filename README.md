@@ -22,13 +22,13 @@ npm install
 Start the dev server:
 
 ```bash
-npm dev
+npm start
 ```
 
 Build the app for production:
 
 ```bash
-npm build
+npm run build
 ```
 
 Preview the production build locally:
