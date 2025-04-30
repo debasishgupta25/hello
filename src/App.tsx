@@ -1,10 +1,13 @@
-import './App.css';
+import React from 'react';
+import CountryNode from './CountryNode';
+import exampleJson from "./../example/example.json";
+
+const countryData = exampleJson[0];
 
 const App = () => {
   return (
-    <div className="content">
-      <h1>Rsbuild with React</h1>
-      <p>Start building amazing things with Rsbuild.</p>
+    <div>
+      <CountryNode data={countryData} />
     </div>
   );
 };
